@@ -1,0 +1,10 @@
+nome=%22Marcelo+da+silva+oliveira%22&cargo=Professor+de+Hist%C3%B3ria+&resumo=Dar+aula+de+hist%C3%B3ria+em+escolas+p%C3%BAblicas+e+particulares.
+-------------------
+nome=%22Marcelo+da+silva+oliveira%22&cargo=Professor+de+Hist%C3%B3ria+&resumo=
+-------------------
+nome=Jo%C3%A3o&cargo=Desenvolvedor+junior&resumo=Desenvolver+React+e+Node.js
+-------------------
+nome=Jo%C3%A3o&cargo=Desenvolvedor+junior&resumo=Desenvolver+React+e+Node.js
+-------------------
+nome=Jo%C3%A3o&cargo=Desenvolvedor+junior&resumo=Trabalhar+com+React+e+Node.js
+-------------------

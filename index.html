@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Emprega Brasil.</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Bem-vindo ao Emprega Brasil.</h1>
+    <img src="brasil.jpg" width="50" alt="" />
+    <p>Este é o nosso site, agora estilizado!</p>
+
+    <form action="/vagas" method="GET">
+      <label for="cargo">Qual vaga você procura?</label>
+      <br />
+
+      <input
+        type="text"
+        id="cargo"
+        name="cargo"
+        placeholder="Ex: Programador"
+      />
+
+      <button type="submit">Buscar</button>
+      <a href="/cadastro">Cadastrar meu currículo</a>
+    </form>
+  </body>
+</html>

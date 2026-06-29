@@ -1,0 +1,31 @@
+/* O seletor 'body' muda a página toda */
+body {
+  font-family: Arial, sans-serif; /* Define uma fonte bonita */
+  background-color: #f4f4f9; /* Cor de fundo cinza bem clarinho */
+  text-align: center; /* Centraliza tudo no meio da tela */
+  padding: 50px; /* Dá um respiro nas bordas */
+}
+
+/* O seletor 'h1' muda apenas o título */
+h1 {
+  color: #2c3e50; /* Uma cor azul bem escura e elegante */
+}
+
+/* Adicionamos a classe .botao-link para o estilo funcionar no link */
+.botao-link {
+  background-color: #3498db;
+  color: white;
+  padding: 15px 30px;
+  text-decoration: none; /* Remove o sublinhado do link */
+  border-radius: 5px;
+  font-size: 18px;
+  display: inline-block; /* Faz o link se comportar como um botão */
+}
+.vaga-item {
+  border: 1px solid #ddd;
+  background-color: white;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 8px;
+  box-shadow: 2px 2px 5px #eee;
+}
